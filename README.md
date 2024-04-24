@@ -9,7 +9,7 @@ This project is part of a detailed tutorial available on my blog, where I explai
 ## Blog Post
 
 For a comprehensive guide and explanation of the code, visit the blog post:
-[Building a Webserver in Go](https://panderu.org/webserver)
+[Building a Webserver in Go](https://panderu.org/posts/webserver)
 
 ## Key Features
 
